@@ -1,173 +1,161 @@
-<!--Section 1: Introduce your self-->
+<div align="center">
 
-# 👋 Hi, I'm Pathan Asmathulla Khan
+# Hi, I'm Pathan Asmathulla Khan 👋
 
-## ABOUT ME
+### Data Analyst · AI & ML Enthusiast · Dashboard Developer
 
-Hello! I'm **Pathan Asmathulla Khan** 🤓
+**Turning data into decisions, insights into impact.**
 
-A passionate **Data Analyst and AI & ML Enthusiast** with expertise in transforming raw data into actionable business insights. I enjoy solving real-world problems using data analytics, visualization, machine learning, and business intelligence tools.
+[![Portfolio](https://img.shields.io/badge/Portfolio-asmathulla.me-F2A93B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://asmathulla.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-asmathulla--khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asmathulla-khan)
+[![Email](https://img.shields.io/badge/Email-your--email%40gmail.com-34D1BF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
-Currently pursuing **B.Tech in Computer Science & Engineering (AI & ML)**, I am continuously building projects in Data Analytics, Machine Learning, and Business Intelligence while preparing for opportunities in leading technology companies.
-
----
-
-## WHAT I DO
-
-*Helping businesses and organizations make smarter decisions through data-driven solutions.*
-
-### ✅ Data Analytics & Business Intelligence
-
-I analyze complex datasets using Python, SQL, Power BI, and Tableau to uncover trends, identify opportunities, and support strategic decision-making.
-
-### ✅ Dashboard Development
-
-I create interactive dashboards and reports that help stakeholders monitor KPIs, track performance, and gain meaningful business insights.
-
-### ✅ Machine Learning Solutions
-
-I develop predictive models and AI-powered applications that automate processes, improve efficiency, and solve business challenges.
-
-### ✅ Data Visualization & Storytelling
-
-I transform data into compelling visual stories that communicate insights clearly and effectively to technical and non-technical audiences.
+</div>
 
 ---
 
-## 🚀 MY PORTFOLIO
+## 🤓 About Me
 
-*A glimpse of some of the projects I've been working on.*
+I'm a passionate **Data Analyst** and **AI & ML Enthusiast** with a focus on turning raw data into actionable business insights. I enjoy solving real-world problems using data analytics, visualization, machine learning, and business intelligence tools.
+
+Currently pursuing my **B.Tech in Computer Science & Engineering (AI & ML)**, I'm continuously building projects in data analytics, machine learning, and BI — while preparing for opportunities at leading technology companies.
+
+```
+🔎 Focus areas   : Data Analytics · BI · Machine Learning
+🎓 Currently     : B.Tech CSE (AI & ML)
+📍 Based in      : Vijayawada, Andhra Pradesh, India
+💬 Ask me about  : Power BI, Python, SQL, ML models
+```
+
+---
+
+## 🚀 What I Do
+
+| | |
+|---|---|
+| 📊 **Data Analytics & BI** | Analyze complex datasets using Python, SQL, Power BI, and Tableau to uncover trends and support strategic decisions. |
+| 📈 **Dashboard Development** | Build interactive dashboards and reports that help stakeholders monitor KPIs and track performance. |
+| 🤖 **Machine Learning Solutions** | Develop predictive models and AI-powered applications that automate processes and solve business problems. |
+| 🎨 **Data Visualization & Storytelling** | Turn data into compelling visual stories for technical and non-technical audiences alike. |
+
+---
+
+## 🧩 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 📊 Sales Performance Dashboard
+Interactive Power BI dashboard analyzing sales trends, revenue growth, customer behavior, and business performance.
 
-![image](images/sales-dashboard.png)
+`Power BI` `SQL` `Excel`
 
-Developed an interactive Power BI dashboard to analyze sales trends, revenue growth, customer behavior, and business performance metrics.
+🔗 [View Project](#)
 
-**Tools Used:** Power BI, SQL, Excel
-
-[🔗 View Project](#)
-
----
+</td>
+<td width="50%" valign="top">
 
 ### 📈 HR Analytics Dashboard
+HR analytics dashboard monitoring employee attrition, workforce demographics, and performance indicators.
 
-![image](images/hr-dashboard.png)
+`Power BI` `Excel`
 
-Created an HR analytics dashboard to monitor employee attrition, workforce demographics, and employee performance indicators.
+🔗 [View Project](#)
 
-**Tools Used:** Power BI, Excel
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-[🔗 View Project](#)
+### 🍔 Food Recognition & Calorie Estimation
+AI-powered web app that recognizes food items from images and estimates calorie intake.
 
----
+`Python` `Flask` `Machine Learning` `HTML/CSS/JS`
 
-### 🍔 Food Recognition & Calorie Estimation System
+🔗 [View Project](#)
 
-![image](images/food-recognition.png)
-
-Developed an AI-powered web application capable of recognizing food items from images and estimating calorie intake.
-
-**Tools Used:** Python, Flask, Machine Learning, HTML, CSS, JavaScript
-
-[🔗 View Project](#)
-
----
+</td>
+<td width="50%" valign="top">
 
 ### 🛒 E-Commerce Sales Analysis
+Exploratory data analysis on retail sales data to uncover customer purchasing patterns and revenue opportunities.
 
-![image](images/ecommerce-analysis.png)
+`Python` `Pandas` `NumPy` `SQL`
 
-Performed exploratory data analysis on retail sales data to identify customer purchasing patterns and revenue opportunities.
+🔗 [View Project](#)
 
-**Tools Used:** Python, Pandas, NumPy, SQL
-
-[🔗 View Project](#)
-
----
-
-## 💻 TECHNICAL SKILLS
-
-### Programming & Analytics
-- Python
-- SQL
-- Excel
-- Statistics
-
-### Data Visualization
-- Power BI
-- Tableau
-- Matplotlib
-- Seaborn
-
-### Machine Learning
-- Scikit-Learn
-- Pandas
-- NumPy
-- Deep Learning Fundamentals
-
-### Databases
-- MySQL
-- MongoDB
-
-### Web Technologies
-- HTML
-- CSS
-- JavaScript
-- Flask
+</td>
+</tr>
+</table>
 
 ---
 
-## 🤝 SOFT SKILLS
+## 💻 Technical Skills
 
-- Problem Solving
-- Critical Thinking
-- Data Storytelling
-- Communication
-- Team Collaboration
-- Leadership
-- Time Management
-- Adaptability
-- Continuous Learning
+**Programming & Analytics**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+**Visualization & ML**
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+**Databases & Web**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ---
 
-## 🏆 CERTIFICATIONS
+## 🏆 Certifications
 
-- Data Analytics Certification
-- Power BI Certification
-- Python Programming Certification
-- SQL Certification
-- Machine Learning Certification
+- 📜 Data Analytics Certification
+- 📜 Power BI Certification
+- 📜 Python Programming Certification
+- 📜 SQL Certification
+- 📜 Machine Learning Certification
 
 ---
 
-## 📫 CONTACT DETAILS
+## 📈 GitHub Stats
 
-| Contact | Details |
-|----------|----------|
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" width="42%" alt="Top Languages"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" width="60%" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 📫 Get In Touch
+
+| | |
+|---|---|
 | 📧 Email | your-email@gmail.com |
 | 📱 Phone | +91 XXXXXXXXXX |
 | 📍 Location | Vijayawada, Andhra Pradesh, India |
-| 💼 LinkedIn | https://www.linkedin.com/in/asmathulla-khan |
-| 💻 GitHub | https://github.com/yourusername |
-| 📄 Resume | Add Resume Link |
-| 🌐 Portfolio | Add Portfolio Link |
+| 💼 LinkedIn | [asmathulla-khan](https://www.linkedin.com/in/asmathulla-khan) |
+| 💻 GitHub | [github.com/yourusername](https://github.com/yourusername) |
+| 🌐 Portfolio | [asmathulla.me](https://asmathulla.me) |
+| 📄 Resume | [Download](#) |
 
 ---
 
-## 📈 GITHUB STATS
+<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+### 🎯 "Turning Data Into Decisions, Insights Into Impact"
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=F2A93B&style=flat-square&label=Profile+Views)
 
----
-
-## 🎯 CAREER OBJECTIVE
-
-My goal is to leverage data analytics, machine learning, and business intelligence to solve complex problems, drive data-driven decisions, and create meaningful impact in organizations while continuously growing as a technology professional.
-
----
-
-⭐ **Turning Data Into Decisions, Insights Into Impact**
+</div>
